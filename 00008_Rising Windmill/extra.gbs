@@ -1,0 +1,9 @@
+procedure Drop(color){
+PutStone(color)
+}
+
+procedure Move3(direction) {
+  Move(direction)
+  Move(direction)
+  Move(direction)
+}
