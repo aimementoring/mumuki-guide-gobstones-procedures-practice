@@ -1,0 +1,7 @@
+procedure GoToEdge(direction){
+  GoToBoundary(direction)
+}
+
+procedure Drop(color){
+  PutStone(color)
+}

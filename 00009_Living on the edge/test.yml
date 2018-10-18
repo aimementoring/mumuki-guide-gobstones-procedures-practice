@@ -1,0 +1,26 @@
+check_head_position: true
+
+subject: 
+
+examples:
+ - title: '2x3 board'
+   initial_board: |
+     GBB/1.0
+     size 2 3
+     head 0 0
+   final_board: |
+     GBB/1.0
+     size 2 3
+     cell 0 2 Rojo 1
+     head 0 2
+     
+ - title: '3x3 board'
+   initial_board: |
+     GBB/1.0
+     size 3 3
+     head 1 1
+   final_board: |
+     GBB/1.0
+     size 3 3
+     cell 0 2 Rojo 1
+     head 0 2
