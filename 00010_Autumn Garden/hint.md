@@ -1,0 +1,1 @@
+First, think how to solve the problem of drawing a flowerpot of one color, and then, with that and some `GoToEdge`, draw the garden.
