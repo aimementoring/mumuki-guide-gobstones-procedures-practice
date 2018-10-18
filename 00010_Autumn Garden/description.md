@@ -1,5 +1,5 @@
 Autumn has arrived and uncle John has come up with the idea of building a garden in the terrace… again.
-Since he knows you are fond of programming, he asked you to create a program in Gobstones that helps him design his new garden, according to the following conditions:
+Since he knows you are fond of programming, he asked you to create a **program** in Gobstones that helps him design his new garden, according to the following conditions:
 
 * every **flowerpot** is a 2x2 square (meaning that its size is 4 cells);
 * as he has doubts about the size of the garden, the program has to work for any big board;
