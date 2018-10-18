@@ -1,0 +1,1 @@
+Well done! You've faced all the challenges. The most important thing you've just learnt here and that you have to take into account from now on, is to **think the strategy**. While the programs get more and more complex, you will realize the importance of this. Don't forget it!
