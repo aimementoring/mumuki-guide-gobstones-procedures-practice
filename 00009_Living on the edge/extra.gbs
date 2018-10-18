@@ -1,7 +1,3 @@
-procedure Drop2(color){
+procedure Drop(color){
   PutStone(color)
-}
-
-procedure GoToEdge2(direction){
-  GoToBoundary(direction)
 }
