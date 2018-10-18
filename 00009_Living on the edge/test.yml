@@ -11,7 +11,7 @@ examples:
    final_board: |
      GBB/1.0
      size 2 3
-     cell 0 2 Red 1
+     cell 0 2 Rojo 1
      head 0 2
      
  - title: '3x3 board'
@@ -22,5 +22,5 @@ examples:
    final_board: |
      GBB/1.0
      size 3 3
-     cell 0 2 Red 1
+     cell 0 2 Rojo 1
      head 0 2
