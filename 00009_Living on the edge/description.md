@@ -1,4 +1,4 @@
-This time, the activity is quite simple: create a procedure RedToTheEdge which drops a red stone in the top left corner of the board.
+This time, the activity is quite simple: create a **procedure** `RedToTheEdge` which drops a red stone in the top left corner of the board.
 
 **Watch out**: _The position of the head and the size of the board are unknown. As a consequence, you can't use `Move` in order to get to the corner._
 
