@@ -1,0 +1,30 @@
+procedure Drop(color){
+PutStone(color)
+}
+  
+procedure DropAtADistance3(color, direction) {
+  Move3(direction)
+  Drop(color)
+}
+
+procedure Move3(direction) {
+  Move(direction)
+  Move(direction)
+  Move(direction)
+}
+
+procedure DropPoints3(color) {
+  Drop(color)
+  DropAtADistance3(color, East)
+  DropAtADistance3(color, East)
+  ComeBack()
+}
+
+procedure ComeBack() {
+  Move(West)
+  Move(West)
+  Move(West)
+  Move(West)
+  Move(West)
+  Move(West)
+}
