@@ -1,0 +1,4 @@
+procedure Drop(color){
+  PutStone(color)
+}
+
