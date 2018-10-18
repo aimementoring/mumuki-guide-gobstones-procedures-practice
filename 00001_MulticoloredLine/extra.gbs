@@ -1,3 +1,23 @@
 procedure Drop(color){
   PutStone(color)
 }
+
+procedure DrawMulticoloredLine4(){
+DrawColoredLine4(Red)
+DrawColoredLine4(Blue)
+DrawColoredLine4(Black)
+DrawColoredLine4(Green)
+}
+
+procedure DrawColoredLine4(color){
+Drop(color)
+Move(East)
+Drop(color)
+Move(East)
+Drop(color)
+Move(East)
+Drop(color)
+Move(West)
+Move(West)
+Move(West)
+}

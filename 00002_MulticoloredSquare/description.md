@@ -22,4 +22,4 @@
      head 0 0
 </gs-board>
 
-Use, **without defining**, the procedure `DropMulticoloredLine4` you've written before. We've already included it in the Library for you, as if it was a primitive. Simpler: you don't need to write again `procedure DropMulticoloredLine4()…`., it's our gift for you.
+Use, **without defining**, the procedure `DrawMulticoloredLine4` you've written before. We've already included it in the Library for you, as if it was a primitive. Simpler: you don't need to write again `procedure DrawMulticoloredLine4()…`., it's our gift for you.
