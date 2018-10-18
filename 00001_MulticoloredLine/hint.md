@@ -1,0 +1,1 @@
+It would be interesting to have a procedure which drops one stone of every color in the current cell, wouldn't it?
