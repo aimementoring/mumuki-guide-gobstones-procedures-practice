@@ -1,6 +1,6 @@
 Let's see a reloaded version of `DropPoints3` which, clearly, will be called `DropPoints3Reloaded`.
 
-What's the difference? Now it must drop 1 stone, then 2 and finally 3; watch out!: you must strictly respect the number of stones we asked, otherwise, your procedure will fail.
+What's the difference? Now it must drop 1 stone, then 2 and finally 3; watch out!: you must **strictly** respect the number of stones we asked, otherwise, your procedure will fail.
 
 As one picture is worth a thousand words, down here is an example of how the board must look like after executing `DropPoints3Reloaded(Green)`, beginning from the indicated cell:
 
