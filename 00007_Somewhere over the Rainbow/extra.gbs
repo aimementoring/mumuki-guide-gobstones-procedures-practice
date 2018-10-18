@@ -17,4 +17,6 @@ procedure DropPoints3(color) {
   Drop(color)
   DropAtADistance3(color, East)
   DropAtADistance3(color, East)
+  Move3(West)
+  Move3(West)
 }
