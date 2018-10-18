@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresComputationWithArity1:DropPoints3
+- binding: DropPoints3
+  inspection: Uses:DropAtADistance3
