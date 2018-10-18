@@ -1,0 +1,1 @@
+It may be useful for you to make **only one** procedure which draws a “blade” of the windmill, having a parameter, the **direction** indicating where to draw it.
