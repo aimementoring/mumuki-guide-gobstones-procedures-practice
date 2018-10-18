@@ -1,0 +1,1 @@
+It seems a good moment to use `DropAtADistance3`, doesn't it?
